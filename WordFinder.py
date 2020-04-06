@@ -1,7 +1,7 @@
 # File Name: Word Finder.py
 # Purpose: Program that finds the position of a word in a phrase
 # Date: 2015-01-05
-# Last modified: 2020-03-01
+# Last modified: 2015-01-05
 # Author: Josen Pottackal
 # Copy right no copyright
 # Version: 1.0
